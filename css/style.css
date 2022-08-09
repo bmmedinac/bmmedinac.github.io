@@ -1,0 +1,26 @@
+#navbarNav{
+    flex-grow: 0.1;
+}
+
+
+.overlay-text{
+    padding: 3%;
+    font-size:3.5vw;
+    float:right;
+    width:65%; /*important*/
+    bottom:21vw; /*important*/
+    padding: 25px;
+    background:#f7f7f7;
+}
+
+.mi-photo{
+    flex-grow: 0.1;
+}
+
+.escribo{
+    color:blue;
+}
+
+.diseno{
+    color:orange;
+}
