@@ -12,11 +12,24 @@
     padding: 25px;
     background:#f7f7f7;
 }
-
-.mi-photo{
-    flex-grow: 0.1;
+.row{
+    flex-wrap: wrap;
 }
 
+#square_box {
+    display: flex;
+
+}
+.mi-photo{
+    flex-grow: 0.10;
+    z-index: -1;
+    border-radius: 50%;
+}
+
+h1 {
+    z-index: 1;
+    background-color: red;
+}
 .escribo{
     color:blue;
 }
