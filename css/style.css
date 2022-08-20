@@ -21,7 +21,7 @@
     background:#f7f7f7;
 }
 .row{
-    flex-wrap: wrap;
+    flex-wrap: wrap; /*comentario*/
 }
 
 #square_box {
